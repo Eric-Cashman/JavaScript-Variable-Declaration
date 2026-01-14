@@ -1,0 +1,1 @@
+# JavaScript-Variable-Declaration
